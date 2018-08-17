@@ -1,0 +1,11 @@
+{
+  "appId": "io.flioh.test",
+  "appName": "ionicTest",
+  "bundledWebRuntime": false,
+  "webDir": "www",
+  "plugins": {
+    "SplashScreen": {
+      "launchShowDuration": 300000
+    }
+  }
+}
